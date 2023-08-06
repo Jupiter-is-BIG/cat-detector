@@ -5,3 +5,9 @@ This is a machine learning model trained to detect cats in images. We use logist
 ## Sample runs
 ![Prediction 1](./predictions/prediction1.png)
 ![Prediction 2](./predictions/prediction2.png)
+
+## Set up
+To download the required libraries, run
+```
+pip install -r "requirements.txt"
+```
